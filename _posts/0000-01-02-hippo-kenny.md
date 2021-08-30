@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Enjoy this post with all it's beauty
+Rick and Morty
 Use the left arrow to go back!
